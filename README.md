@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# react-styling-demo
+# React-styling-
 =======
 # React Styling Methods Demo
 
@@ -27,12 +27,12 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Abdifitahmohamuud/react-styling-demo
+git clone https://github.com/Abdifitahmohamuud/React-styling
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd react-styling-demo
+cd React-styling
 ```
 
 3. Install dependencies:
